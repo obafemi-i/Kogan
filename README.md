@@ -1,4 +1,4 @@
-###kogan Scraper
+### kogan Scraper
 
 Python web scraper for Kogan e-commerce store.
 
